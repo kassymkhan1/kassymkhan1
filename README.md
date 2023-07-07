@@ -4,7 +4,7 @@
 - Kassymkhan
 Feel free to checkout my website!
 - 🏢 Devops Engineer
-- 🧰 I build with: `Python` `Docker` `Nomad` `Consul` `Golang` `Angular` ...
+- 🧰 I build with: `Python` `Docker` `Nomad` `Consul` `Golang` `Angular` `Nats` `Clickhouse` `Cassandra` `Ansible` `Terraform` ...
 - ⚡ I enjoy programming, reading, and lifting weights :)
 - 📫 Reach out to me: kassymkhan24@gmail.com
 <!---
