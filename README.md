@@ -22,8 +22,8 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
 YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 <!--END_SECTION:waka-->		
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kassymkhan1&show_icons=true&theme=" alt="abhisheknaiidu" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDcyODcyM119
+eyJoaXN0b3J5IjpbLTYwMTA2MDM5OV19
 -->
