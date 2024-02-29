@@ -11,3 +11,19 @@
 <!---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](-)
 -->
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```txt
+TypeScript   2 hrs 40 mins   ██████████▒░░░░░░░░░░░░░░   41.00 %
+JavaScript   2 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   31.62 %
+Other        1 hr 27 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+```
+<!--END_SECTION:waka-->		
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE5MDcyODcyM119
+-->
