@@ -11,12 +11,14 @@
 <!---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](-)
 -->
-	📊 **this week i spent my time on:**
+
+📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 📈 my github stats	
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kassymkhan1&show_icons=true&theme=dark" alt="abhisheknaiidu" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE1NzMxNDAsMTk0ODI2NTUzMV19
+eyJoaXN0b3J5IjpbMTA3NDAxMTIzMiwxOTQ4MjY1NTMxXX0=
 -->
