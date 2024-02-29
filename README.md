@@ -21,9 +21,11 @@ Other        1 hr 27 mins    █████▓░░░░░░░░░░░
 JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
-<!--END_SECTION:waka-->		
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kassymkhan1&show_icons=true&theme=" alt="abhisheknaiidu" />
+<!--END_SECTION:waka-->
+	
+📈 my github stats	
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kassymkhan1&show_icons=true&theme=dark" alt="abhisheknaiidu" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTA2MDM5OV19
+eyJoaXN0b3J5IjpbLTExMTg4NjgxMDZdfQ==
 -->
