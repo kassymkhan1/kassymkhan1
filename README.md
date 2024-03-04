@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/UCwQgVeAPJORKHc3uK3_JjZw)
 
 
-- Kassymkhan Feel free to checkout my [website](khan-io.vercel.app)!
+- Kassymkhan Feel free to checkout my [website](https://khan-io.vercel.app)!
 - 🏢 Devops Engineer
 - 🧰 I build with: `Python` `Docker` `Nomad` `Consul` `Golang` `Angular` `Nats` `Clickhouse` `Cassandra` `Ansible` `Terraform` ...
 - ⚡ I enjoy programming, reading, and lifting weights :)
