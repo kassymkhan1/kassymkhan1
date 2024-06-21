@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           7 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-Smarty         4 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-Markdown       3 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Python         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Dockerfile     1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+YAML           8 hrs 17 mins   ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+Smarty         6 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
+Markdown       3 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Python         2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Dockerfile     1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
